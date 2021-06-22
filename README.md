@@ -6,7 +6,7 @@
 
 <!-- ![Gifphy](https://media.giphy.com/media/W4RTzsjgQF447EfNPX/giphy.gif) -->
 
-<!-- [Live Demo](https://zlx025mxpp.codesandbox.io/) -->
+[Live Demo](https://codesandbox.io/s/pedantic-archimedes-e4f8l)
 
 ## Installation
 

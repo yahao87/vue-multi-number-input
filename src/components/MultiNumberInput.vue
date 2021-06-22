@@ -28,6 +28,7 @@
 </template>
 
 <script>
+import { Fragment } from 'vue-fragment';
 import SingleNumberInput from './SingleNumberInput.vue';
 
 // 원본이 된 오픈소스
@@ -43,6 +44,7 @@ export default {
   name: 'MultiNumberInput',
   inheritAttrs: true,
   components: {
+    Fragment,
     SingleNumberInput,
   },
   props: {

@@ -1,6 +1,6 @@
 # vue-multi-number-input
 
-> "Input component for separating the input one by one character.
+> Input component for separating the input one by one character.
 > for the web built with Vue 2.x.
 
 <!-- ![Gifphy](https://media.giphy.com/media/W4RTzsjgQF447EfNPX/giphy.gif) -->
@@ -26,7 +26,7 @@ Vue.component("MultiNumberInput", VueMultiNumberInput);
 
 Code example:
 
-```javascript
+```vue
 <template>
   <div style="display: flex; flex-direction: row;">
     <MultiNumberInput
@@ -34,10 +34,10 @@ Code example:
         :should-auto-focus="true"
         :num-inputs="6"
         :input-wrapper-style="{
-            border: `1px solid ${$style.ghostWhite}`
+            border: '1px solid #ECECED'
         }"
         :input-active-wrapper-style="{
-            border: `1px solid ${$style.orange}`,
+            border: '1px solid #FFA500',
             color: $style.orange
         }"
         @on-change="handleOnChange"

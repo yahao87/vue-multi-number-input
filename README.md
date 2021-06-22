@@ -1,7 +1,8 @@
 # vue-multi-number-input
 
-> Input component for separating the input one by one character.
-> for the web built with Vue 2.x.
+> Input component for separating the input one by one character.  
+> for the web built with Vue 2.x.  
+> This library was remade based on [vue-otp-input](https://github.com/bachdgvn/vue-otp-input).  
 
 <!-- ![Gifphy](https://media.giphy.com/media/W4RTzsjgQF447EfNPX/giphy.gif) -->
 

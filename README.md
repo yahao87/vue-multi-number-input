@@ -87,29 +87,22 @@ export default {
     <td>number</td>
     <td><strong>true</strong></td>
     <td>4</td>
-    <td>Number of OTP inputs to be rendered.</td>
+    <td>Number of inputs to be rendered.</td>
   </tr>
   <tr>
-    <td>separator</td>
-    <td>component<br></td>
-    <td>false</td>
-    <td></td>
-    <td>Provide a custom separator between inputs by passing a component. For instance, <code>&lt;span&gt;-&lt;/span&gt;</code> would add <code>-</code> between each input</td>
-  </tr>
-  <tr>
-    <td>input-classes</td>
-    <td>className (string)</td>
+    <td>input-wrapper-style</td>
+    <td>Object</td>
     <td>false</td>
     <td>none</td>
-    <td>Style applied or class passed to each input.</td>
+    <td>Style applied passed to each input.</td>
   </tr>
   <tr>
-      <td>input-type</td>
-      <td>string</td>
-      <td>false</td>
-      <td>"tel"</td>
-      <td>Input type. Optional value: "password", "number", "tel".</td>
-    </tr>
+    <td>input-active-wrapper-style</td>
+    <td>Object</td>
+    <td>false</td>
+    <td>none</td>
+    <td>Style applied passed to each actived input.</td>
+  </tr>
   <tr>
     <td>should-auto-focus</td>
     <td>boolean</td>

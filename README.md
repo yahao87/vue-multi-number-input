@@ -39,7 +39,7 @@ Code example:
         }"
         :input-active-wrapper-style="{
             border: '1px solid #FFA500',
-            color: $style.orange
+            color: '#FFA500'
         }"
         @on-change="handleOnChange"
         @on-complete="handleOnComplete"

@@ -4,8 +4,6 @@
   "description": "Input component for separating the input one by one character. for the web built with Vue 2.x.",
   "main": "./dist/vueMultiNumberInput.common.js",
   "scripts": {
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
     "build-bundle": "vue-cli-service build --target lib --name vueMultiNumberInput ./src/components/index.js",
     "lint": "vue-cli-service lint"
   },

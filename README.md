@@ -142,3 +142,17 @@ export default {
     <td>Return MultiNumberString code typed in inputs.</td>
   </tr>
 </table>
+
+  
+## Slot
+
+<table>
+  <tr>
+    <th>Name<br></th>
+    <th>Description</th>
+  </tr>
+  <tr>
+     <td>separator</td>
+     <td>Slot to be inserted between input and input</td>
+  </tr>
+</table>

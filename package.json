@@ -1,6 +1,6 @@
 {
   "name": "vue-multi-number-input",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Input component for separating the input one by one character. for the web built with Vue 2.x.",
   "main": "./dist/vueMultiNumberInput.common.js",
   "scripts": {

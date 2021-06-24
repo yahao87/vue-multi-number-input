@@ -18,7 +18,9 @@
     "otp",
     "otpinput",
     "multinumber",
-    "numberinput"
+    "numberinput",
+    "pin",
+    "pincode"
   ],
   "author": "Everyharu <yahao87@gmail.com>",
   "license": "MIT",

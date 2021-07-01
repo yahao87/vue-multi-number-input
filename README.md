@@ -86,7 +86,7 @@ export default {
   <tr>
     <td>num-inputs</td>
     <td>number</td>
-    <td><strong>true</strong></td>
+    <td><strong>false</strong></td>
     <td>4</td>
     <td>Number of inputs to be rendered.</td>
   </tr>
